@@ -1,0 +1,13 @@
+crt
+Matej,Feranec,24.1.1985,5,Pod Horou,84,Podhorica,015 49
+Roman,Hulo,4.8.1999,5,Slnecna,88,Namestovo,029 01
+Jozef,Jagelka,2.3.1952,1,Havlova,8,Praha,12 458
+Natalia,Jurcakova,10.4.2000,7,Hlavna,846,Oravske Vesele,029 62
+Martin,Maslanak,8.7.1989,2,Hlavna,546,Habovka,028 56
+Marek,Mrekaj,2.10.1998,6,Dolna,87,Polhoranka,024 87
+Michal,Murin,28.3.2000,1,Jasenovska,945,Oravska Lesna,029 57
+Karol,Noga,7.5.1974,3,Bernolakova,8,Trencin,024 12
+Margita,Ondrasova,4.12.1992,4,Dolna Ulica,87,Lieskovska Strba,025 87
+Olga,Postruzakova,5.8.1985,2,Horna Ulica,974,Bratislava I,029 01
+Jozef,Vrabel,24.5.1994,1,Flajsova,968,Zilina,029 01
+Erika,Ziguliakova,1.6.1995,4,Hatalova,54,Humenne,054 87

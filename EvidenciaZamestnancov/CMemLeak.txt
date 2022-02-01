@@ -1,0 +1,7 @@
+
+Final Report
+MLK: 010E6140 0 bytes allocated E:\FRI\SEMESTER_3\Vstavane_systemy_C\Semestrlka\EvidenciaZamestnancovSolution FINAL\EvidenciaZamestnancov\Databaza.c: 86
+Total allocations    : 1
+Max memory allocation: 1976 (1K)
+Total leak           : 0
+
